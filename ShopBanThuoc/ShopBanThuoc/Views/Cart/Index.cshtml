@@ -1,0 +1,193 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using ShopBanThuoc.Models
+
+@model Cart
+
+@section head{
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Hệ thống cửa hàng thuốc số 1, uy tín, chất lượng">
+        <meta name="auther" content="A Plus Team">
+        <link rel="shortcut icon" href="/Content/Images/icon.png">
+        <title>Nhà Thuốc số một-Medicine shop</title>
+        <link rel="stylesheet" href="/Content/css/bootstrap.css">
+        <link rel="stylesheet" href="/Content/css/home.css">
+        <script src="/Content/js/jquery-3.3.1.js"></script>
+        <script src="/Content/js/bootstrap.js"></script>
+        @*<script src="/Content/js/Cart.js" async></script>*@
+        <link rel="stylesheet" href="/Content/css/cart.css">
+    </head>
+}
+
+<div id="body">
+    <div class="container">
+        <!-- Thanh điều hướng -->
+        @{Html.RenderAction("_Navbar","Home");}
+        <div class="row">
+            <div id="main" class="col-lg-8 col-md-12 col-sm-12">
+                <!-- SlideShow -->
+                <div id="slide" class="carousel slide" data-ride="carousel">
+
+                    <ul class="carousel-indicators">
+                        <li data-target="#slide" data-slide-to="0" class="active"></li>
+                        <li data-target="#slide" data-slide-to="1"></li>
+                        <li data-target="#slide" data-slide-to="2"></li>
+                        <li data-target="#slide" data-slide-to="3"></li>
+                        <li data-target="#slide" data-slide-to="4"></li>
+                    </ul>
+
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img class="img_slide" src="/Content/Images/banner-web-02.jpg" alt="Công Nghệ Web">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="img_slide" src="/Content/Images/banner-web-03.jpg" alt="Công Nghệ Web">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="img_slide" src="/Content/Images/banner-web-04.jpg" alt="Công Nghệ Web">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="img_slide" src="/Content/Images/banner-web-05.jpg" alt="Công Nghệ Web">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="img_slide" src="/Content/Images/banner-web-06.jpg" alt="Công Nghệ Web">
+                        </div>
+
+                    </div>
+
+                    <!-- Nút điều khiển slides -->
+
+                    <a class="carousel-control-prev" href="#slide" data-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                    </a>
+                    <a class="carousel-control-next" href="#slide" data-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                    </a>
+                </div>
+
+                <!-- End SlideShow -->
+                <!-- Biên ngoài ----------------là khung trang -->
+                <!-- --------------------------------------------------------------------------- -->
+                <!-- Cart -->
+                @if (Model.Lines.Count() > 0)
+                {
+                <div id="my-cart">
+                    <div class="row title-cart">
+                        <div class="cart-nav-item col-lg-7 col-md-7 col-sm-12">Thông tin sản phẩm</div>
+                        <div class="cart-nav-item cart-nav-item-child col-lg-2 col-md-2 col-sm-12">Tùy chọn</div>
+                        <div class="cart-nav-item cart-nav-item-child col-lg-3 col-md-3 col-sm-12 text-center">Giá</div>
+                    </div>
+                    <form method="post" action="/Cart/UpdateCart">
+                        <div class="cart-items">
+                            @{ int i = 0;
+                                int? sum = 0;
+                            }
+                            @foreach (CartItem it in Model.Lines)
+                            {
+							<div class="cart-item row">
+								<div class="cart-thumb col-lg-7 col-md-7 col-sm-12 center-me">
+									<img src="/Content/Images/SP1_Gung.jpg">
+									<h4 class="center-me">@it.Thuoc.TenThuoc</h4>
+								</div>
+								<div class="qty">
+									<input type="hidden" name="masp[@i]" value="@it.Thuoc.MaThuoc" />
+								</div>
+								<div class="w-100 d-sm-none"></div>
+								<div class="cart-quantity col-lg-2 col-md-2 col-sm-2 col-3 center-parent-col-row">
+									<input type="number" name="qty[@i]" id="quantity" class="form-control form-blue quantity" value="@it.Quantity" min="1" max="@it.Thuoc.SoLuongTon">
+								</div>
+								<div class="cart-price col-lg-3 col-md-3 col-sm-10 col-9 text-center">
+									<b id="price">@it.Thuoc.DonGia</b>
+									<a href="/Cart/RemoveLine/@it.Thuoc.MaThuoc">Xoá</a>
+								</div>
+								
+							</div>
+                                i++;
+                                sum += it.Quantity * it.Thuoc.DonGia;
+                            }
+                        </div>
+
+						<div class="row">
+							<div class="cart-thumb col-lg-7 col-md-7 col-sm-12">
+								<button id="update-cart" class="btn btn-success" type="submit">Cập nhật giỏ hàng</button>
+							</div>
+							<div class="w-100 d-sm-none"></div>
+							<div class="cart-total col-lg-2 col-md-2 col-auto center-parent-col"><b>Tổng cộng:</b></div>
+							<div class="cart-price col-lg-3 col-md-3 col-auto text-center">
+								<b>@sum</b><br>
+								<i>(Giá đã bao gồm VAT)</i>
+							</div>
+						</div>
+                    </form>
+
+                </div>
+                <!-- End Cart -->
+                <!-- Thông tin Khách Hàng -->
+                <div id="customer">
+                    <div class="row">
+                        <div class="by-now col-lg-12 col-md-12 col-sm-12 text-center">
+                            <a href="/Cart/Payment">
+                                <b>Mua ngay</b>
+                                <span>Giao hàng tận nơi siêu tốc</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                 }
+                else
+                {
+                    <div id="customer">
+                        <div class="row">
+                            <div class="by-now col-lg-12 col-md-12 col-sm-12 text-center">
+                                <br />
+                                <h2> Giỏ hàng rỗng!</h2>
+                                <br />
+                            </div>
+                            <div class="by-now col-lg-12 col-md-12 col-sm-12 text-center">
+                                <a href="/Home/Index">
+                                    <b>Tiếp tục mua sắm</b>
+                                    <span>Chọn mặt hàng cần mua</span>
+                                </a>
+                                <br />
+                            </div>
+                        </div>
+                    </div>
+                }
+                <!--    End Kh  -->
+                <!-- ------------------------------------------------------------------------------- -->
+
+
+
+            </div>
+
+
+            <div id="sidebar" class="col-lg-4 col-md-12 col-sm-12">
+                <div id="banner">
+                    <div class="banner-item ">
+                        <a href="#"><img class="img-fluid img_slide" src="/Content/Images/qc_2.png"></a>
+                    </div>
+                    <div class="banner-item">
+                        <a href="#"><img class="img-fluid img_slide" src="/Content/Images/qc_3.png"></a>
+                    </div>
+
+                </div>
+            </div>
+
+
+        </div>
+
+
+
+
+
+    </div>
+
+
+</div>
+
+
+
+

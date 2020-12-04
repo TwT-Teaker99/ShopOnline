@@ -1,0 +1,118 @@
+﻿
+@{
+    ViewBag.Title = "CheckBill";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using ShopBanThuoc.Models
+@model DONHANG
+
+@section head{
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Hệ thống cửa hàng thuốc số 1, uy tín, chất lượng">
+        <meta name="auther" content="A Plus Team">
+        <link rel="shortcut icon" href="/Content/Images/icon.png">
+        <title>Nhà Thuốc số một-Medicine shop</title>
+        <link rel="stylesheet" href="/Content/css/bootstrap.css">
+        <link rel="stylesheet" href="/Content/css/home.css">
+        <link rel="stylesheet" href="/Content/css/success.css">
+        <script src="/Content/js/jquery-3.3.1.js"></script>
+        <script src="/Content/js/bootstrap.js"></script>
+
+    </head>
+}
+
+<div id="body">
+    <div class="container">
+        <!-- Thanh điều hướng -->
+        @{Html.RenderAction("_Navbar", "Home");}
+        <div class="row">
+            <div id="main" class="col-lg-8 col-md-12 col-sm-12">
+                <!-- SlideShow -->
+                <div id="slide" class="carousel slide" data-ride="carousel">
+
+                    <ul class="carousel-indicators">
+                        <li data-target="#slide" data-slide-to="0" class="active"></li>
+                        <li data-target="#slide" data-slide-to="1"></li>
+                        <li data-target="#slide" data-slide-to="2"></li>
+                        <li data-target="#slide" data-slide-to="3"></li>
+                        <li data-target="#slide" data-slide-to="4"></li>
+                    </ul>
+
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img class="img_slide" src="/Content/Images/banner-web-02.jpg" alt="Công Nghệ Web">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="img_slide" src="/Content/Images/banner-web-03.jpg" alt="Công Nghệ Web">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="img_slide" src="/Content/Images/banner-web-04.jpg" alt="Công Nghệ Web">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="img_slide" src="/Content/Images/banner-web-05.jpg" alt="Công Nghệ Web">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="img_slide" src="/Content/Images/banner-web-06.jpg" alt="Công Nghệ Web">
+                        </div>
+
+                    </div>
+
+                    <!-- Nút điều khiển slides -->
+
+                    <a class="carousel-control-prev" href="#slide" data-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                    </a>
+                    <a class="carousel-control-next" href="#slide" data-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                    </a>
+                </div>
+
+                <!-- End SlideShow -->
+                <!-- Biên ngoài ----------------là khung trang -->
+                <!-- --------------------------------------------------------------------------- -->
+
+                <div id="search">
+                        <form class="form-inline" method="post" action="/Home/TraCuuDon" style="margin:25px 0px 25px">
+                            <input class="form-control mt-3" type="search" placeholder="Mã đơn hàng..." aria-label="Search" name="search">
+                            <button class="btn mt-3" type="submit">Tra cứu đơn hàng</button>
+                        </form>
+
+                </div>
+
+                <!-- Thông tin Khách Hàng -->
+                <!--    End Kh  -->
+                <!-- ------------------------------------------------------------------------------- -->
+
+
+
+            </div>
+
+
+            <div id="sidebar" class="col-lg-4 col-md-12 col-sm-12">
+                <div id="banner">
+                    <div class="banner-item ">
+                        <a href="#"><img class="img-fluid img_slide" src="/Content/Images/qc_2.png"></a>
+                    </div>
+                    <div class="banner-item">
+                        <a href="#"><img class="img-fluid img_slide" src="/Content/Images/qc_3.png"></a>
+                    </div>
+
+                </div>
+            </div>
+
+
+        </div>
+
+
+
+
+
+    </div>
+
+
+</div>
+
+

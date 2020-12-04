@@ -1,0 +1,882 @@
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll.config
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.pdb
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe.config
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.rsp
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe.config
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.rsp
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Console.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe.config
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.rsp
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\WebGrease.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csproj.CopyComplete
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.dll
+C:\Users\Admin\source\repos\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.pdb
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.pdb
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.rsp
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.rsp
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.AppContext.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Collections.Immutable.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Console.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Globalization.Calendars.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Http.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Sockets.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.ValueTuple.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.rsp
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.Web.Infrastructure.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\WebGrease.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.pdb
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.pdb
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.pdb
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll.config
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.pdb
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\WebGrease.dll
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csproj.CopyComplete
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll.config
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.pdb
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.rsp
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.rsp
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.AppContext.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Collections.Immutable.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Console.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Globalization.Calendars.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Http.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Sockets.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.ValueTuple.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.rsp
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.Web.Infrastructure.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\WebGrease.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.pdb
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csprojResolveAssemblyReference.cache
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.dll
+E:\CNTT3_2\Cong_Nghe_Web\NEW\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.pdb
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll.config
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.pdb
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csproj.CopyComplete
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.dll
+C:\Users\Admin\Desktop\Nhóm 11\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.pdb
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.pdb
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.rsp
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.rsp
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.AppContext.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Collections.Immutable.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Console.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Globalization.Calendars.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Http.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Sockets.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.ValueTuple.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.rsp
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.Web.Infrastructure.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\WebGrease.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.pdb
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csprojResolveAssemblyReference.cache
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAPNHOM\Nhom_11\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.pdb
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.pdb
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.rsp
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.rsp
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.AppContext.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Collections.Immutable.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Console.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Globalization.Calendars.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Http.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Sockets.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Reflection.Metadata.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.ValueTuple.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.rsp
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe.config
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.Web.Infrastructure.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\WebGrease.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.pdb
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csprojResolveAssemblyReference.cache
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.dll
+E:\CNTT3_2\Cong_Nghe_Web\BAITAP\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.pdb
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll.config
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.pdb
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\WebGrease.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csproj.CopyComplete
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.pdb
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll.config
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.pdb
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\WebGrease.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csproj.CopyComplete
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.dll
+C:\Users\Admin\Downloads\Programs\BAITAP\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.pdb
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll.config
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\ShopBanThuoc.pdb
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.exe.config
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csc.rsp
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.exe.config
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\csi.rsp
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.AppContext.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Console.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Http.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.ValueTuple.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.exe.config
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\vbc.rsp
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\WebGrease.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\EntityFramework.SqlServer.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Helpers.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Mvc.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Optimization.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Razor.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Newtonsoft.Json.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Antlr3.Runtime.pdb
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Net.Http.Formatting.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\System.Web.Http.WebHost.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csproj.CoreCompileInputs.cache
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csproj.CopyComplete
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.dll
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.pdb
+C:\Users\vuaph\Downloads\Compressed\ShopBanThuoc1\ShopBanThuoc1\ShopBanThuoc\ShopBanThuoc\obj\Debug\ShopBanThuoc.csprojAssemblyReference.cache

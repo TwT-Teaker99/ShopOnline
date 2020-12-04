@@ -1,0 +1,146 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using ShopBanThuoc.Models
+@model List<THUOC>
+
+@section head{
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Hệ thống cửa hàng thuốc số 1, uy tín, chất lượng">
+        <meta name="auther" content="A Plus Team">
+        <link rel="shortcut icon" href="/Content/Images/icon.png">
+        <title>Nhà Thuốc số một-Medicine shop - Tìm Kiếm Sản Phẩm</title>
+        <link rel="stylesheet" href="/Content/css/bootstrap.css">
+        <link rel="stylesheet" href="/Content/css/home.css">
+        <link rel="stylesheet" href="/Content/css/home1.css">
+        <link rel="stylesheet" href="/Content/css/search.css">
+        <script src="/Content/js/jquery-3.3.1.js"></script>
+        <script src="/Content/js/bootstrap.js"></script>
+        <script src="~/Content/js/Home.js"></script>
+    </head>
+}
+
+
+<div id="body">
+    <div class="container">
+        <!-- Thanh điều hướng -->
+        @{ Html.RenderAction("_Navbar");}
+        <div class="row">
+            <div id="main" class="col-lg-8 col-md-12 col-sm-12">
+                <!-- SlideShow -->
+                <div id="slide" class="carousel slide" data-ride="carousel">
+
+                    <ul class="carousel-indicators">
+                        <li data-target="#slide" data-slide-to="0" class="active"></li>
+                        <li data-target="#slide" data-slide-to="1"></li>
+                        <li data-target="#slide" data-slide-to="2"></li>
+                        <li data-target="#slide" data-slide-to="3"></li>
+                        <li data-target="#slide" data-slide-to="4"></li>
+                    </ul>
+
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img class="img_slide" src="/Content/Images/banner-web-02.jpg" alt="Công Nghệ Web">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="img_slide" src="/Content/Images/banner-web-03.jpg" alt="Công Nghệ Web">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="img_slide" src="/Content/Images/banner-web-04.jpg" alt="Công Nghệ Web">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="img_slide" src="/Content/Images/banner-web-05.jpg" alt="Công Nghệ Web">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="img_slide" src="/Content/Images/banner-web-06.jpg" alt="Công Nghệ Web">
+                        </div>
+
+                    </div>
+
+                    <!-- Nút điều khiển slides -->
+
+                    <a class="carousel-control-prev" href="#slide" data-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                    </a>
+                    <a class="carousel-control-next" href="#slide" data-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                    </a>
+                </div>
+
+
+                <!-- End SlideShow -->
+                <!-- Biên ngoài ----------------là khung trang -->
+                <!-- --------------------------------------------------------------------------- -->
+                <!-- Kết quả tìm kiếm -->
+
+                <div class="products">
+                    <div id="search-result">Kết quả tìm kiếm với sản phẩm <span>@ViewBag.search</span></div>
+                    @{ var group = Model.GroupBy(r => Model.IndexOf(r) / 3).ToList();
+
+                        foreach (var parentItem in group)
+                        {
+                            <div class="product-list card-deck">
+                                @foreach (THUOC it in parentItem)
+                                {
+                                    <div class="product-item card text-center">
+                                        <a href="/Home/product/@it.MaThuoc"><img src="/Content/Images/@it.URLAnh"></a>
+                                        <h4><a href="/Home/product/@it.MaThuoc">@it.TenThuoc</a></h4>
+                                        <p>Giá Bán: <span>@it.DonGia VNĐ</span></p>
+                                    </div>
+                                }
+                            </div>
+                        }
+                    }
+                </div>
+
+                @*<div class="products">
+            <div id="search-result">Kết quả tìm kiếm với sản phẩm <span>@ViewBag.search</span></div>
+            <script>loadThuoc('searchthuoc?search=@ViewBag.search');</script>
+        </div>*@
+                <!--	End List Product	-->
+
+                <div id="pagination">
+                    <ul class="pagination">
+                        <li class="page-item"><a class="page-link" href="#">Trang trước</a></li>
+                        <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                        <li class="page-item"><a class="page-link" href="#">2</a></li>
+                        <li class="page-item"><a class="page-link" href="#">3</a></li>
+                        <li class="page-item"><a class="page-link" href="#">Trang sau</a></li>
+                    </ul>
+                </div>
+
+
+                <!-- ------------------------------------------------------------------------------- -->
+
+
+
+            </div>
+
+
+            <div id="sidebar" class="col-lg-4 col-md-12 col-sm-12">
+                <div id="banner">
+                    <div class="banner-item ">
+                        <a href="#"><img class="img-fluid img_slide" src="/Content/Images/qc_2.png"></a>
+                    </div>
+                    <div class="banner-item">
+                        <a href="#"><img class="img-fluid img_slide" src="/Content/Images/qc_3.png"></a>
+                    </div>
+
+                </div>
+            </div>
+
+
+        </div>
+
+
+
+
+
+    </div>
+
+
+</div>

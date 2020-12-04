@@ -1,0 +1,94 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+@RenderSection("head")
+
+<body>
+    <!-- Header -->
+    <div id="header">
+        <div class="container">
+            <div class="row">
+                <!-- Logo -->
+                <div id="logo" class="col-lg-3 col-md-3 col-sm-12">
+                    <h3>
+                        <a href="/Home/Index"><img class="img-fluid" src="/Content/Images/logo3.png"></a>
+                    </h3>
+                </div>
+                <!-- Tìm kiếm -->
+                <div id="search" class="col-lg-5 col-md-5 col-sm-12">
+                    <form class="form-inline" method="post" action="/Home/search">
+                        <input class="form-control mt-3" type="search" placeholder="Tìm Kiếm..." aria-label="Search" name="search">
+                        <button class="btn mt-3" type="submit">Tìm Kiếm</button>
+                    </form>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-8">
+                    <ul id="login-cart" class="list-group list-group-horizontal">
+                        <li class="list-group-item" style="border: none; margin-bottom: 0px;">
+                            <a class="mt-3" id="cart-head" href="/Cart/Index">
+                                <img id="img_icon" src="/Content/Images/icon-cart.png" alt="GIỎ HÀNG">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-8">
+                    <ul id="login-cart" class="list-group list-group-horizontal">
+                        <li class="list-group-item" style="border: none; margin-bottom: 0px;">
+                            <a class="mt-3" id="cart-head" href="/KHLogin/Index">
+                                <img id="img_icon" src="~/Content/Images/icon_login1.png" alt="Đăng Nhập">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- End Header -->
+    <!-- Body -->
+    <div id="body">
+        @RenderBody()
+    </div>
+    <!-- End Body -->
+    <!-- Footer -->
+    <div id="footer">
+        <div id="footer-top">
+            <div class="container">
+                <div class="row">
+
+                    <div id="address" class="col-lg-12 col-md-12 col-sm-12">
+                        <h3>Công Ty Cổ Phần Dược Phẩm Medicine</h3>
+                        <p>236 Hoàng Quốc Việt - Cầu Giấy - Hà Nội</p>
+                        <p>Phone Sale: (+84) 049 119 149</p>
+                        <p>Email: congngheweb@gmail.com</p>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div id="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <p>
+                            2020 © Medicine Shop. Developed by A Plus Team.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Footer -->
+
+    @RenderSection("script", required: false);
+
+</body>
+</html>
+
+
